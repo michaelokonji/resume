@@ -29,6 +29,12 @@ I enjoy building reliable, scalable systems and working in enterprise environmen
 
 ---
 
+## Currently
+
+Open to fully remote Cloud Engineer, Cloud Infrastructure, Cloud Support Engineer or DevOps roles.
+
+---
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/michaelokonji/
