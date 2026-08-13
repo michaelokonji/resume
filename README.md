@@ -29,6 +29,11 @@ I enjoy building reliable, scalable systems and working in enterprise environmen
 
 ---
 
+## Websites
+
+- Tenelix: https://tenelix.com
+- Aprondoc: https://aprondoc.com
+
 ## Currently
 
 Open to fully remote Cloud Engineer, Cloud Infrastructure, Cloud Support Engineer or DevOps roles.
